@@ -1,8 +1,9 @@
 # time-spent-linux-ubuntu
 ## User Usage Tracker
 
-This script tracks the daily usage of a given user on a Linux system and displays the information in a bar chart with an average line.
-Prerequisites
+This simple script tracks the daily usage of a given user on a Linux system and displays the information in a bar chart. I found it nice to track my working hours like that.
+
+## Prerequisites
 
 This script requires Python 3 and the following libraries:
     subprocess

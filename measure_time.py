@@ -54,8 +54,6 @@ def plot_user_usage(data):
 
     plt.show()
 
-
-
 if __name__ == '__main__':
     username = input("Enter username: ")
     date_range = input("Enter date range (last week/last month): ")
